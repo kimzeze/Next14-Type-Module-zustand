@@ -1,5 +1,5 @@
-@import url("../styles/reset.css");
-@import url("../styles/root.css");
+@import url("../lib/styles/reset.css");
+@import url("../lib/styles/root.css");
 
 :root {
   --background: #ffffff;
