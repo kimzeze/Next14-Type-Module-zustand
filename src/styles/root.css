@@ -1,0 +1,56 @@
+:root {
+  /* 색상 */
+  --cl-primary: #1f4298;
+  --cl-secondary: #7685e5;
+  --cl-tertiary: #c6cfff;
+
+  --cl-white: #ffffff;
+  --cl-black: #282828;
+  --cl-red: #ff0000;
+
+  --cl-gray-light: #f7f7f7;
+  --cl-gray-strong: #eaeaea;
+
+  --cl-dashboard: #f5f5f5;
+
+  /* 폰트 크기 */
+  --fs-12: 1.2rem;
+  --fs-14: 1.4rem;
+  --fs-16: 1.6rem;
+  --fs-18: 1.8rem;
+  --fs-20: 2rem;
+  --fs-24: 2.4rem;
+  --fs-28: 2.8rem;
+  --fs-30: 3rem;
+  --fs-32: 3.2rem;
+  --fs-36: 3.6rem;
+  --fs-40: 4rem;
+  --fs-48: 4.8rem;
+  --fs-52: 5.2rem;
+  --fs-60: 6rem;
+
+  /* 폰트 굵기 */
+  --fw-regular: 400; /* regular */
+  --fw-medium: 500; /* medium */
+  --fw-semibold: 600; /* semibold */
+  --fw-bold: 700; /* bold */
+  --fw-black: 900; /* black */
+
+  /* 간격 */
+  --spc-8: 0.8rem;
+  --spc-10: 1rem;
+  --spc-12: 1.2rem;
+  --spc-16: 1.6rem;
+  --spc-20: 2rem;
+  --spc-24: 2.4rem;
+  --spc-30: 3rem;
+  --spc-32: 3.2rem;
+  --spc-40: 4rem;
+  --spc-64: 6.4rem;
+  --spc-80: 8rem;
+  --spc-100: 10rem;
+
+  /* 모서리 */
+  --bd-10: 1rem;
+  --bd-20: 2rem;
+}
